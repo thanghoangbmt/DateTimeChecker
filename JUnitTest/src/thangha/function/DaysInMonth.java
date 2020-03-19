@@ -37,13 +37,13 @@ public class DaysInMonth {
                 days = 31;
                 break;
             case 6:
-                days = 30;
+                days = 31;
                 break;
             case 7:
                 days = 31;
                 break;
             case 8:
-                days = 31;
+                days = 29;
                 break;
             case 9:
                 days = 30;
